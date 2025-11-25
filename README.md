@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Kia ora, I’m Aakaash Charles
 
-<!--
-**CharlesFrancis19/CharlesFrancis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master of Information Technology @ University of Waikato
+Flutter • Cloud • AI • Full-Stack Engineering
 
-Here are some ideas to get you started:
+🚀 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Exaba Mobile Photo Backup App (Flutter + S3-compatible storage)
+
+🤖 AI Health Risk Stratification Platform (FastAPI, XGBoost, Next.js)
+
+🌊 Taniwha Trails – interactive Māori storytelling website
+
+🛠 Tech Stack
+
+Flutter • Dart • FastAPI • Python • Node.js • Next.js • Tailwind • AWS (S3/CloudFront) • Docker • GitHub Actions
+
+🌱 Currently Learning
+
+High-performance backend systems, cloud storage pipelines, and scalable mobile-to-cloud workflows.
+
+🤝 Let’s Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/aakaash-charles-6b8678247/
+
+🔗 Portfolio:https://portfolio1-beryl-tau.vercel.app/
